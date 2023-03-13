@@ -1,4 +1,4 @@
 .idea
-mysite
-.venv
+mysite/
+venv/
 main.py
